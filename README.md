@@ -1,4 +1,4 @@
-<img alt="Welcome" src="https://github.com/Pugianf/Pugianf/blob/main/Capa.png" />
+<img alt="Welcome" src="https://github.com/Pugianf/Pugianf/blob/main/6856.jpg" />
 
 <h1 align="center">Hello World 👋, I'm Felipe Pugian</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
