@@ -3,11 +3,11 @@
 <h1 align="center">Hello World 👋, I'm Felipe Pugian</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pugianf&label=Profile%20views&color=b40e7f&style=flat" alt="criptograma-1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pugianf&label=Profile%20views&color=b40e7f&style=flat" alt="Pugianf" /> </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pugianf&show_icons=true&theme=midnight-purple&locale=en" alt="criptograma-1" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pugianf&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="criptograma-1" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pugianf&show_icons=true&theme=radical&locale=en" alt="Pugianf" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pugianf&show_icons=true&theme=radical&locale=en&layout=compact" alt="Pugianf" />
   </div>
 
 ---
