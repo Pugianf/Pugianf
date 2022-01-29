@@ -6,8 +6,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pugianf&label=Profile%20views&color=7b5fc7&style=flat" alt="Pugianf" /> </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pugianf&show_icons=true&theme=tokyonight&locale=en" alt="Pugianf" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pugianf&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Pugianf" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pugianf&show_icons=true&theme=tokyonight&locale=en" alt="Pugianf" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pugianf&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Pugianf" />
   </div>
 
 ---
