@@ -1,4 +1,4 @@
-<img alt="Welcome" src="https://github.com/Pugianf/Pugianf/blob/main/fococlipping-20220128-181012.png" />
+<img alt="Welcome" src="https://github.com/Pugianf/Pugianf/blob/main/fococlipping-20220128-181012.png" /> 
 
 <h1 align="center">Hello World 👋, I'm Felipe Pugian</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
