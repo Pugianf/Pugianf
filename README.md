@@ -1,7 +1,7 @@
 <img alt="Welcome" src="https://github.com/Pugianf/Pugianf/blob/main/fococlipping-20220128-181012.png" />
 
 <h1 align="center">Hello World 👋, I'm Felipe Pugian</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A passionate software engineer from Brazil</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pugianf&label=Profile%20views&color=7b5fc7&style=flat" alt="Pugianf" /> </p>
 
